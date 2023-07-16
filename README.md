@@ -1,4 +1,4 @@
 # PCMLAI
-Berkeley PC for ML and AI
+Berkeley Professional Certification for ML and AI
 
 THIS REPOSITORY WILL HOST MY ASSIGNMENTS NEEDED FOR THE COURSEWORK
